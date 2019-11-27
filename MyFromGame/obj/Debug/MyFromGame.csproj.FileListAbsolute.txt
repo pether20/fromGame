@@ -1,0 +1,7 @@
+D:\ClaseGithub\MyFromGame\MyFromGame\bin\Debug\MyFromGame.exe.config
+D:\ClaseGithub\MyFromGame\MyFromGame\bin\Debug\MyFromGame.exe
+D:\ClaseGithub\MyFromGame\MyFromGame\bin\Debug\MyFromGame.pdb
+D:\ClaseGithub\MyFromGame\MyFromGame\obj\Debug\MyFromGame.csprojAssemblyReference.cache
+D:\ClaseGithub\MyFromGame\MyFromGame\obj\Debug\MyFromGame.csproj.CoreCompileInputs.cache
+D:\ClaseGithub\MyFromGame\MyFromGame\obj\Debug\MyFromGame.exe
+D:\ClaseGithub\MyFromGame\MyFromGame\obj\Debug\MyFromGame.pdb
